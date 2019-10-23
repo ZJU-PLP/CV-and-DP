@@ -12,6 +12,7 @@
 ### 入门
 * Coursera深度学习教程 https://github.com/fengdu78/deeplearning_ai_books
 * DeepLearning-500-questions https://github.com/scutan90/DeepLearning-500-questions
+* Algorithm_Interview_Notes-Chinese https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 * TensorFlow深度学习算法原理与编程实战（书籍-框架类） https://item.jd.com/12479132.html
 * 深度学习框架PyTorch：入门与实践（书籍-框架类）https://item.jd.com/12261129.html
 ### 进阶
